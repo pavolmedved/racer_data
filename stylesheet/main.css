@@ -1,0 +1,39 @@
+.grad {
+    background-image: linear-gradient(red, yellow);
+}
+
+
+
+h1{
+    text-align: center;
+    padding-top: 50px;
+    text-decoration: underline solid goldenrod;
+    font-style: italic;
+    font-size: 60px;
+    font-size:5vw;
+    color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+body{
+    background-color:rgb(6, 76, 93);
+}
+
+.table-position{
+    padding:80px;
+    margin-left:50px;
+    
+}
+.table{
+    width:95%;
+    border: 5px solid goldenrod;
+    
+}
+
+form {
+    text-align: center;
+    margin-left:auto; 
+    margin-right:auto;
+    padding-bottom: 50px;
+    
+}
